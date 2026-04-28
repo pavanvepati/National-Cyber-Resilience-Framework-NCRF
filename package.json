@@ -1,0 +1,1 @@
+{\n  "name": "cyber-crime-detector",\n  "version": "1.0.0",\n  "description": "Comprehensive cyber crime detection agent.",\n  "main": "src/agents/cyber-crime-detector.js",\n  "scripts": {\n    "start": "node src/agents/cyber-crime-detector.js"\n  },\n  "dependencies": {\n    "email-parser": "latest",\n    "ml": "latest",\n    "url-analysis": "latest"\n  }\n}
